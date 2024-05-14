@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Make sure you are closer to me than the length of your arm.
 - 😄 Pronouns: Baloney sandwich, pneumonoultramicroscopicsilicovolcanoconiosis, supreme chancellor.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Ma boi was born on 9/11 (not that year though).
 
 <!---
 Captain-AdHoc/Captain-AdHoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
