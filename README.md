@@ -11,3 +11,4 @@ Captain-AdHoc/Captain-AdHoc is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ---
+![jNytDu](https://i.makeagif.com/media/8-12-2024/jNytDu.gif)
