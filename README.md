@@ -11,3 +11,4 @@ Captain-AdHoc/Captain-AdHoc is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ---
+![dunggine_demo-comp](https://github.com/user-attachments/assets/6f51b127-d7a9-43a0-b62c-8bd3340846bb)
