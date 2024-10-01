@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to read keystrokes in a non-blocking manner on Windows without missing keystrokes when holding a key pressed, which could happen when using `_kbhit()` and `_getch()` together.
 - 💞️ I’m looking to collaborate on projects at work and any project that uses 6510 assembly for the C64 computer (I just love coding in 6510 assembly). I used to code a game for the C64 in asm using [`CBM prg Studio`](https://www.ajordison.co.uk/download.html).
 - 📫 How to reach me: Make sure you are closer to me than the length of your arm.
-- 😄 Pronouns: Baloney sandwich, pneumonoultramicroscopicsilicovolcanoconiosis, supreme chancellor.
+- 😄 Pronouns: Baloney sandwich, pneumonoultramicroscopicsilicovolcanoconiosis, supreme chancellor, "Mr. Mr. Mr Sir Mr. Mr.".
 - ⚡ Fun fact: Ma boi was born on 9/11 (not that year though).
 
 <!---
